@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\epam-tx-2021\\Task 1\\Task 1.1\\Task 1.1.1\\1.1.1 RECTANGLE\\1.1.1 RECTANGLE.csproj",
+      "projectUniqueName": "D:\\epam-tx-2021\\Task 1\\Task 1.1\\1.1.1 RECTANGLE\\1.1.1 RECTANGLE\\1.1.1 RECTANGLE.csproj",
       "projectName": "1.1.1 RECTANGLE",
-      "projectPath": "D:\\epam-tx-2021\\Task 1\\Task 1.1\\Task 1.1.1\\1.1.1 RECTANGLE\\1.1.1 RECTANGLE.csproj",
+      "projectPath": "D:\\epam-tx-2021\\Task 1\\Task 1.1\\1.1.1 RECTANGLE\\1.1.1 RECTANGLE\\1.1.1 RECTANGLE.csproj",
       "packagesPath": "C:\\Users\\mrgac\\.nuget\\packages\\",
-      "outputPath": "D:\\epam-tx-2021\\Task 1\\Task 1.1\\Task 1.1.1\\1.1.1 RECTANGLE\\obj\\",
+      "outputPath": "D:\\epam-tx-2021\\Task 1\\Task 1.1\\1.1.1 RECTANGLE\\1.1.1 RECTANGLE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

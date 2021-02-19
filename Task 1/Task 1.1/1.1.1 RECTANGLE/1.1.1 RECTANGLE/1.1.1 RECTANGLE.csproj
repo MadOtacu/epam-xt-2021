@@ -6,8 +6,4 @@
     <RootNamespace>_1._1._1_RECTANGLE</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="D:\epam-tx-2021\Task 1\Task 1.1\Task 1.1.1\Program.cs" Link="Program.cs" />
-  </ItemGroup>
-
 </Project>
