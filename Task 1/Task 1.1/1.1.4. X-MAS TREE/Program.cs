@@ -6,7 +6,7 @@ namespace _1._1._4._X_MAS_TREE
     {
         static void Main(string[] args)
         {
-            Console.Write("Введите количество строк:");
+            Console.Write("Введите количество треугольников:");
             if (Int32.TryParse(Console.ReadLine(), out int height))
             {
                 for (int i = 0; i < height; i++)
