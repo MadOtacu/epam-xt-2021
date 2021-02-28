@@ -13,7 +13,7 @@ namespace _1._1._4._X_MAS_TREE
                 {
                     for (int o = 0; o <= i; o++)
                     {
-                        for (int j = o; j < height - 1; j++)
+                        for (int j = o; j <= height; j++)
                         {
                             Console.Write(" ");
                         }

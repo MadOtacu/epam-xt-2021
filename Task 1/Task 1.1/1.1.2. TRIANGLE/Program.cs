@@ -6,17 +6,19 @@ namespace _1._1._2._TRIANGLE
     {
         static void Main(string[] args)
         {
-            int a;
             Console.Write("Введите длину строки:");
-            a = Int32.Parse(Console.ReadLine());
-            for (int i = 0; i < a; i++)
+            if (Int32.TryParse(Console.ReadLine(), out int length))
             {
-                for (int j = 0; j <= i; j++)
+                for (int i = 0; i < length; i++)
                 {
-                    Console.Write("*");
+                    for (int j = 0; j <= i; j++)
+                    {
+                        Console.Write("*");
+                    }
+                    Console.WriteLine("");
                 }
-                Console.WriteLine("");
             }
+            else { Console.WriteLine("Введите число!"); }
         }
     }
 }
