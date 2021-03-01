@@ -1,0 +1,13 @@
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.5. SUM OF NUMBERS\bin\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.exe
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.5. SUM OF NUMBERS\bin\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.deps.json
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.5. SUM OF NUMBERS\bin\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.runtimeconfig.json
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.5. SUM OF NUMBERS\bin\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.runtimeconfig.dev.json
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.5. SUM OF NUMBERS\bin\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.dll
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.5. SUM OF NUMBERS\bin\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.pdb
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.5. SUM OF NUMBERS\obj\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.csprojAssemblyReference.cache
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.5. SUM OF NUMBERS\obj\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.AssemblyInfoInputs.cache
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.5. SUM OF NUMBERS\obj\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.AssemblyInfo.cs
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.5. SUM OF NUMBERS\obj\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.csproj.CoreCompileInputs.cache
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.5. SUM OF NUMBERS\obj\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.dll
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.5. SUM OF NUMBERS\obj\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.pdb
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.5. SUM OF NUMBERS\obj\Debug\netcoreapp3.1\1.1.5. SUM OF NUMBERS.genruntimeconfig.cache
