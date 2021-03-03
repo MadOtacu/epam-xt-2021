@@ -1,0 +1,13 @@
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.6. FONT ADJUSTMENT\bin\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.exe
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.6. FONT ADJUSTMENT\bin\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.deps.json
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.6. FONT ADJUSTMENT\bin\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.runtimeconfig.json
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.6. FONT ADJUSTMENT\bin\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.runtimeconfig.dev.json
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.6. FONT ADJUSTMENT\bin\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.dll
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.6. FONT ADJUSTMENT\bin\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.pdb
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.csprojAssemblyReference.cache
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.AssemblyInfoInputs.cache
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.AssemblyInfo.cs
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.csproj.CoreCompileInputs.cache
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.dll
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.pdb
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp3.1\1.1.6. FONT ADJUSTMENT.genruntimeconfig.cache
