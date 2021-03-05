@@ -1,0 +1,16 @@
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\bin\Debug\net5.0\1.1.10. 2D ARRAY.exe
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\bin\Debug\net5.0\1.1.10. 2D ARRAY.deps.json
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\bin\Debug\net5.0\1.1.10. 2D ARRAY.runtimeconfig.json
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\bin\Debug\net5.0\1.1.10. 2D ARRAY.runtimeconfig.dev.json
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\bin\Debug\net5.0\1.1.10. 2D ARRAY.dll
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\bin\Debug\net5.0\ref\1.1.10. 2D ARRAY.dll
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\bin\Debug\net5.0\1.1.10. 2D ARRAY.pdb
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\obj\Debug\net5.0\1.1.10. 2D ARRAY.csprojAssemblyReference.cache
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\obj\Debug\net5.0\1.1.10. 2D ARRAY.GeneratedMSBuildEditorConfig.editorconfig
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\obj\Debug\net5.0\1.1.10. 2D ARRAY.AssemblyInfoInputs.cache
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\obj\Debug\net5.0\1.1.10. 2D ARRAY.AssemblyInfo.cs
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\obj\Debug\net5.0\1.1.10. 2D ARRAY.csproj.CoreCompileInputs.cache
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\obj\Debug\net5.0\1.1.10. 2D ARRAY.dll
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\obj\Debug\net5.0\ref\1.1.10. 2D ARRAY.dll
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\obj\Debug\net5.0\1.1.10. 2D ARRAY.pdb
+D:\epam-tx-2021\Task 1\Task 1.1\1.1.10. 2D ARRAY\1.1.10. 2D ARRAY\obj\Debug\net5.0\1.1.10. 2D ARRAY.genruntimeconfig.cache
