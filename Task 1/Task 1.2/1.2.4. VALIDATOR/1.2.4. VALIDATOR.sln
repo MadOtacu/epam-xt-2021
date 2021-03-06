@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.2.4. VALIDATOR", "1.2.4. VALIDATOR\1.2.4. VALIDATOR.csproj", "{31E62BF6-C7DC-4A2E-8B7E-2D19C1FBC646}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E62BF6-C7DC-4A2E-8B7E-2D19C1FBC646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E62BF6-C7DC-4A2E-8B7E-2D19C1FBC646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E62BF6-C7DC-4A2E-8B7E-2D19C1FBC646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E62BF6-C7DC-4A2E-8B7E-2D19C1FBC646}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAE27C5E-A58A-4894-A006-9C545CE3A87C}
+	EndGlobalSection
+EndGlobal

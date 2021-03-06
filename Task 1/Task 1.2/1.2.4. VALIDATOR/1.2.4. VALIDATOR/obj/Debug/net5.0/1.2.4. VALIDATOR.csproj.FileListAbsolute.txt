@@ -1,0 +1,16 @@
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.4. VALIDATOR\1.2.4. VALIDATOR\bin\Debug\net5.0\1.2.4. VALIDATOR.exe
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.4. VALIDATOR\1.2.4. VALIDATOR\bin\Debug\net5.0\1.2.4. VALIDATOR.deps.json
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.4. VALIDATOR\1.2.4. VALIDATOR\bin\Debug\net5.0\1.2.4. VALIDATOR.runtimeconfig.json
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.4. VALIDATOR\1.2.4. VALIDATOR\bin\Debug\net5.0\1.2.4. VALIDATOR.runtimeconfig.dev.json
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.4. VALIDATOR\1.2.4. VALIDATOR\bin\Debug\net5.0\1.2.4. VALIDATOR.dll
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.4. VALIDATOR\1.2.4. VALIDATOR\bin\Debug\net5.0\ref\1.2.4. VALIDATOR.dll
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.4. VALIDATOR\1.2.4. VALIDATOR\bin\Debug\net5.0\1.2.4. VALIDATOR.pdb
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.4. VALIDATOR\1.2.4. VALIDATOR\obj\Debug\net5.0\1.2.4. VALIDATOR.GeneratedMSBuildEditorConfig.editorconfig
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.4. VALIDATOR\1.2.4. VALIDATOR\obj\Debug\net5.0\1.2.4. VALIDATOR.AssemblyInfoInputs.cache
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.4. VALIDATOR\1.2.4. VALIDATOR\obj\Debug\net5.0\1.2.4. VALIDATOR.AssemblyInfo.cs
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.4. VALIDATOR\1.2.4. VALIDATOR\obj\Debug\net5.0\1.2.4. VALIDATOR.csproj.CoreCompileInputs.cache
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.4. VALIDATOR\1.2.4. VALIDATOR\obj\Debug\net5.0\1.2.4. VALIDATOR.dll
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.4. VALIDATOR\1.2.4. VALIDATOR\obj\Debug\net5.0\ref\1.2.4. VALIDATOR.dll
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.4. VALIDATOR\1.2.4. VALIDATOR\obj\Debug\net5.0\1.2.4. VALIDATOR.pdb
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.4. VALIDATOR\1.2.4. VALIDATOR\obj\Debug\net5.0\1.2.4. VALIDATOR.genruntimeconfig.cache
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.4. VALIDATOR\1.2.4. VALIDATOR\obj\Debug\net5.0\1.2.4. VALIDATOR.csprojAssemblyReference.cache

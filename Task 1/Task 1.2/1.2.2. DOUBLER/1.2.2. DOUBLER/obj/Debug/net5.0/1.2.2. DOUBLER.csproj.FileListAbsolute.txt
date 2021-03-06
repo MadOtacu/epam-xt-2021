@@ -1,0 +1,16 @@
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.2. DOUBLER\1.2.2. DOUBLER\bin\Debug\net5.0\1.2.2. DOUBLER.exe
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.2. DOUBLER\1.2.2. DOUBLER\bin\Debug\net5.0\1.2.2. DOUBLER.deps.json
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.2. DOUBLER\1.2.2. DOUBLER\bin\Debug\net5.0\1.2.2. DOUBLER.runtimeconfig.json
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.2. DOUBLER\1.2.2. DOUBLER\bin\Debug\net5.0\1.2.2. DOUBLER.runtimeconfig.dev.json
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.2. DOUBLER\1.2.2. DOUBLER\bin\Debug\net5.0\1.2.2. DOUBLER.dll
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.2. DOUBLER\1.2.2. DOUBLER\bin\Debug\net5.0\ref\1.2.2. DOUBLER.dll
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.2. DOUBLER\1.2.2. DOUBLER\bin\Debug\net5.0\1.2.2. DOUBLER.pdb
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.2. DOUBLER\1.2.2. DOUBLER\obj\Debug\net5.0\1.2.2. DOUBLER.csprojAssemblyReference.cache
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.2. DOUBLER\1.2.2. DOUBLER\obj\Debug\net5.0\1.2.2. DOUBLER.GeneratedMSBuildEditorConfig.editorconfig
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.2. DOUBLER\1.2.2. DOUBLER\obj\Debug\net5.0\1.2.2. DOUBLER.AssemblyInfoInputs.cache
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.2. DOUBLER\1.2.2. DOUBLER\obj\Debug\net5.0\1.2.2. DOUBLER.AssemblyInfo.cs
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.2. DOUBLER\1.2.2. DOUBLER\obj\Debug\net5.0\1.2.2. DOUBLER.csproj.CoreCompileInputs.cache
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.2. DOUBLER\1.2.2. DOUBLER\obj\Debug\net5.0\1.2.2. DOUBLER.dll
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.2. DOUBLER\1.2.2. DOUBLER\obj\Debug\net5.0\ref\1.2.2. DOUBLER.dll
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.2. DOUBLER\1.2.2. DOUBLER\obj\Debug\net5.0\1.2.2. DOUBLER.pdb
+D:\epam-tx-2021\Task 1\Task 1.2\1.2.2. DOUBLER\1.2.2. DOUBLER\obj\Debug\net5.0\1.2.2. DOUBLER.genruntimeconfig.cache
