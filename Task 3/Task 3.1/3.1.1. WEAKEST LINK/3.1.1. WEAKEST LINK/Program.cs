@@ -35,17 +35,15 @@ namespace _3._1._1._WEAKEST_LINK
             {
                 members.RemoveAt(i);
 
-                Console.WriteLine($"Раунд {roundCounter}. Вычеркнут человек. Людей осталось: {members.Count}");
-
-                roundCounter++;
+                Console.WriteLine($"Раунд {roundCounter++}. Вычеркнут человек. Людей осталось: {members.Count}");
 
                 if (members.Count % 2 == 0)
                 {
-                    i = 0;
+                    i = -1;
                 }
                 if (members.Count % 2 == 1)
                 {
-                    i = -1;
+                    i = 0;
                 }
                 if (members.Count == 1)
                 {

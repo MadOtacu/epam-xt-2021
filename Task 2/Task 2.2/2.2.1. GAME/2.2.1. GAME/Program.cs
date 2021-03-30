@@ -12,35 +12,41 @@ namespace _2._2._1._GAME
 
     class Position
     {
-        protected int X;
-        protected int Y;
+        public int X;
+        public int Y;
     }
 
-    abstract class Board
+    abstract class GameObject
     {
-        protected Position position;
-        public abstract void GetPosition(Position coordinates);
+        public Position position { get; protected set; }
     }
 
-    class Player : Board
+    class Player : GameObject
     {
-        protected int Health;
-        public void GetHealth(int health)
-        {
-            this.Health = health;
-        }
-        public override void GetPosition(Position coordinates)
-        {
-            this.position = coordinates;
-        }
+        public int Health { get; private set; }
+
         public void Move(Position newCoordinates)
         {
-            this.position = newCoordinates;
+            position = newCoordinates;
+        }
+
+        public void TakeDamage(int damage)
+        {
+            Health -= damage;
         }
     }
 
-    abstract class Enemy : Board
+    abstract class Enemy : GameObject
     {
+        protected Player target;
+
+        protected int damage;
+
+        public Enemy (Player player)
+        {
+            target = player;
+        }
+
         public abstract void DealDamage();
 
         public abstract void Move(Position newCoordinates);
@@ -48,14 +54,13 @@ namespace _2._2._1._GAME
 
     class Vampire : Enemy
     {
-        public override void GetPosition(Position coordinates)
+        public Vampire(Player player) : base(player)
         {
-
         }
 
         public override void DealDamage()
         {
-
+            target.TakeDamage(damage);
         }
 
         public override void Move(Position newCoordinates)
@@ -71,9 +76,8 @@ namespace _2._2._1._GAME
 
     class Spider : Enemy
     {
-        public override void GetPosition(Position coordinates)
+        public Spider(Player player) : base(player)
         {
-
         }
 
         public override void DealDamage()
@@ -94,9 +98,8 @@ namespace _2._2._1._GAME
 
     class Skeleton : Enemy
     {
-        public override void GetPosition(Position coordinates)
+        public Skeleton(Player player) : base(player)
         {
-
         }
 
         public override void DealDamage()
@@ -110,7 +113,7 @@ namespace _2._2._1._GAME
         }
     }
 
-    abstract class Boost : Board
+    abstract class Boost : GameObject
     {
 
         public abstract void Healing();
@@ -120,10 +123,6 @@ namespace _2._2._1._GAME
 
     class Apple : Boost
     {
-        public override void GetPosition(Position coordinates)
-        {
-
-        }
 
         public override void DamageBoost()
         {
@@ -139,11 +138,6 @@ namespace _2._2._1._GAME
     class Cherry : Boost
     {
         public override void DamageBoost()
-        {
-            
-        }
-
-        public override void GetPosition(Position coordinates)
         {
             
         }
@@ -166,11 +160,6 @@ namespace _2._2._1._GAME
             
         }
 
-        public override void GetPosition(Position coordinates)
-        {
-            
-        }
-
         public override void Healing()
         {
             
@@ -182,46 +171,35 @@ namespace _2._2._1._GAME
         }
     }
 
-    abstract class Obstruction : Board
+    abstract class Obstruction : GameObject
     {
-        public abstract void Size();
+        public int[] Size;
+        public Obstruction (int[] size)
+        {
+            Size = size;
+        }
     }
 
     class Bush : Obstruction
     {
-        public override void GetPosition(Position coordinates)
-        {
-            
-        }
-
-        public override void Size()
+        public Bush(int[] size) : base(size)
         {
 
         }
     }
     class Tree : Obstruction
     {
-        public override void GetPosition(Position coordinates)
+        public Tree(int[] size) : base(size)
         {
-            
-        }
 
-        public override void Size()
-        {
-            
         }
     }
 
     class Rock : Obstruction
     {
-        public override void GetPosition(Position coordinates)
+        public Rock(int[] size) : base(size)
         {
-            
-        }
 
-        public override void Size()
-        {
-            
         }
     }
 }
