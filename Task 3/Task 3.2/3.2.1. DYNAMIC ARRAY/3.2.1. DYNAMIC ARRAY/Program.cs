@@ -66,14 +66,16 @@ namespace _3._2._1._DYNAMIC_ARRAY
 
         void AddRange (IEnumerable<T> appendableList)
         {
+            int finalLength = appendableList.Count() + dynamicArray.Length;
+
+            if (Length <= finalLength)
+            {
+                CapacityMultipler(finalLength);
+            }
+
             foreach (var item in appendableList)
             {
-                if (Length == dynamicArray.Length)
-                {
-                    CapacityMultipler(++Length);
-                }
-
-                dynamicArray.Append<T>(item);
+                dynamicArray.Append(item);
             }
         }
 
