@@ -1,0 +1,36 @@
+.form{
+    width: 400px;
+    background-color:cornflowerblue;
+    border: 3px solid darkblue;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+.email{
+    margin: 10px;
+    width: 350px;
+
+}
+.email_input{
+    width: 350px;
+}
+
+.password{
+    margin: 10px;
+    float: left;
+}
+
+h1{
+    margin-left: 10px;
+}
+
+h3{
+    margin: 0px;
+}
+button{
+    background-color:khaki;
+    margin: 10px;
+    height: 30px;
+    width: 100px;
+    border: none;
+}
