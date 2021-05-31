@@ -1,0 +1,32 @@
+.main{
+    width: 90%;
+    height: 70px;
+    background-color: darkgrey;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+    border: 2px solid red;
+    
+}
+
+.arrow{
+    width: 0;
+    height: 0;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 30px solid red;
+    margin: auto;
+    position: relative;
+    top: -30px;
+}
+
+.inner-arrow{
+    width: 0;
+    height: 0;
+    border-left: 28px solid transparent;
+    border-right: 28px solid transparent;
+    border-bottom: 28px solid darkgray;
+    position: relative;
+    right: 28px;
+    top: 2px;
+}
