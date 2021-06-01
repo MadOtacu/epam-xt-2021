@@ -1,0 +1,59 @@
+body{
+    background-color: darkcyan;
+}
+
+.menu{
+    width: 812px;
+    height: 160px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    box-shadow: 0 0 10px black;
+}
+
+img{
+    width: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.upper-text{
+    margin: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: orangered;
+}
+
+.lower-text{
+    margin: 10px;
+    text-align: center;
+}
+
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+    background-color: orangered;
+    color: white;
+}
+
+.hosting-1{
+    float: left;
+    width: 250px;
+    border-right: 1px solid gray;
+    margin: 10px;
+}
+
+.hosting-2{
+    float: left;
+    width: 250px;
+    border-right: 1px solid gray;
+    margin: 10px;
+}
+
+.hosting-3{
+    float: left;
+    width: 250px;
+    margin: 10px;
+}
